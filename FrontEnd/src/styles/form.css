@@ -1,0 +1,29 @@
+#form{
+    margin-top: 20px;
+    width: 40%;
+    height: auto;
+    border: 10px solid gray;
+    margin-left: 30%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 15px;
+}
+#form input{
+    margin-top: 7px;
+    width: 120px;
+   
+}
+#form label{
+    font-weight: bold;
+    color: blue;
+    margin-right: 5px;
+}
+#btn{
+    background-color: teal;
+    color: white;
+    cursor: pointer;
+    border: none;
+    width: 80px;
+    height: 30px;
+    margin-bottom: 20px;
+    
+}

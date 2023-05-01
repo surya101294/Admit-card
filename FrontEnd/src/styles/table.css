@@ -1,0 +1,28 @@
+table{
+    border: 10px solid gray;
+    margin-top: 20px;
+    margin-left: 30%;
+}
+table th{
+   
+    background-color: teal;
+    color: white;
+}
+td{
+    border: 3px solid gray;
+}
+#det{
+background-color: green;
+color: white;
+cursor: pointer;
+}
+#down{
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+}
+#del{
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
